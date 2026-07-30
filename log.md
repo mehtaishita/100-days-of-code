@@ -23,8 +23,8 @@ Template:
 
 ### Day 1: July 29, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: I started a new project for calculating split tips from a bill + tip percentage. I did the html setup today
 
-**Thoughts**:
+**Thoughts**: Starting small to get used to the pace, realizing how much of the foundations I don't know
 
-**Link(s) to work**: []()
+**Link(s) to work**: [Tip Splitter](https://github.com/mehtaishita/tip-splitter)
