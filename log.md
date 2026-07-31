@@ -28,3 +28,11 @@ Template:
 **Thoughts**: Starting small to get used to the pace, realizing how much of the foundations I don't know
 
 **Link(s) to work**: [Tip Splitter](https://github.com/mehtaishita/tip-splitter)
+
+### Day 2: July 31, Friday
+
+**Today's Progress**: I played around with python today and did some basic string manipulation.
+
+**Thoughts**: Python was the first language i learned and it's really fun to play with always
+
+**Link(s) to work**: [Echo](https://github.com/mehtaishita/echo)
