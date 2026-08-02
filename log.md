@@ -39,8 +39,10 @@ Template:
 
 ### Day 3: Aug 1, Saturday
 
-**Today's Progress**: Practice with linked lists in Python, solving some data structures problems
+**Today's Progress**: Practice with linked lists in Python, solving some data structures problems. Also finished the tip splitter problem 
 
 **Thoughts**: It was energizing working on the foundations
 
-**Link(s) to work**: https://www.hackerrank.com/profile/ishitamehta33
+**Link(s) to work**: 
+ 1. [Hacker Rank](https://www.hackerrank.com/profile/ishitamehta33)
+ 2. [Tip Splitter](https://github.com/mehtaishita/tip-splitter)
