@@ -36,3 +36,11 @@ Template:
 **Thoughts**: Python was the first language i learned and it's really fun to play with always
 
 **Link(s) to work**: [Echo](https://github.com/mehtaishita/echo)
+
+### Day 3: Aug 1, Saturday
+
+**Today's Progress**: Practice with linked lists in Python, solving some data structures problems
+
+**Thoughts**: It was energizing working on the foundations
+
+**Link(s) to work**: https://www.hackerrank.com/profile/ishitamehta33
