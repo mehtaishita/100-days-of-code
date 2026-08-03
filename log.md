@@ -46,3 +46,11 @@ Template:
 **Link(s) to work**: 
  1. [Hacker Rank](https://www.hackerrank.com/profile/ishitamehta33)
  2. [Tip Splitter](https://github.com/mehtaishita/tip-splitter)
+
+ ### Day 3: Aug 2, Sunday
+
+**Today's Progress**: Solving some data structures problems
+
+**Thoughts**: Not a really productive day, just did work in small bursts.
+
+**Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/profile/ishitamehta33)
