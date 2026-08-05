@@ -20,22 +20,22 @@ Template:
 **Link(s) to work**: []()
 
 -->
+ ### Day 5: Aug 4, Tuesday
 
-### Day 1: July 29, Wednesday
+**Today's Progress**: Implemented a key value store with nested transactions
 
-**Today's Progress**: I started a new project for calculating split tips from a bill + tip percentage. I did the html setup today
+**Thoughts**: It was a coding interview but then I kept working on it
 
-**Thoughts**: Starting small to get used to the pace, realizing how much of the foundations I don't know
+**Link(s) to work**: [Key Value Store](https://github.com/mehtaishita/carefeed-coding)
 
-**Link(s) to work**: [Tip Splitter](https://github.com/mehtaishita/tip-splitter)
 
-### Day 2: July 31, Friday
+### Day 4: Aug 2, Sunday
 
-**Today's Progress**: I played around with python today and did some basic string manipulation.
+**Today's Progress**: Solving some data structures problems
 
-**Thoughts**: Python was the first language i learned and it's really fun to play with always
+**Thoughts**: Not a really productive day, just did work in small bursts.
 
-**Link(s) to work**: [Echo](https://github.com/mehtaishita/echo)
+**Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/profile/ishitamehta33)
 
 ### Day 3: Aug 1, Saturday
 
@@ -47,10 +47,18 @@ Template:
  1. [Hacker Rank](https://www.hackerrank.com/profile/ishitamehta33)
  2. [Tip Splitter](https://github.com/mehtaishita/tip-splitter)
 
- ### Day 3: Aug 2, Sunday
+ ### Day 2: July 31, Friday
 
-**Today's Progress**: Solving some data structures problems
+**Today's Progress**: I played around with python today and did some basic string manipulation.
 
-**Thoughts**: Not a really productive day, just did work in small bursts.
+**Thoughts**: Python was the first language i learned and it's really fun to play with always
 
-**Link(s) to work**: [Hacker Rank](https://www.hackerrank.com/profile/ishitamehta33)
+**Link(s) to work**: [Echo](https://github.com/mehtaishita/echo)
+
+### Day 1: July 29, Wednesday
+
+**Today's Progress**: I started a new project for calculating split tips from a bill + tip percentage. I did the html setup today
+
+**Thoughts**: Starting small to get used to the pace, realizing how much of the foundations I don't know
+
+**Link(s) to work**: [Tip Splitter](https://github.com/mehtaishita/tip-splitter)
