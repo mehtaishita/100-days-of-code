@@ -20,6 +20,15 @@ Template:
 **Link(s) to work**: []()
 
 -->
+
+### Day 6: Aug 5, Wednesday
+
+**Today's Progress**: Worked on a javascript quiz app
+
+**Thoughts**: following a tutorial so not quite my own work but i wanted to finish what i had started
+
+**Link(s) to work**: [Trivia app](https://angemon2.github.io/special-octo-fishstick/trivia.html)
+
  ### Day 5: Aug 4, Tuesday
 
 **Today's Progress**: Implemented a key value store with nested transactions
