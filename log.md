@@ -21,6 +21,15 @@ Template:
 
 -->
 
+### Day 7: Sept 9, Wednesday
+
+**Today's Progress**: Started a Vue app for 12-step
+
+**Thoughts**: I've had this in my head for a while to do, so finally made a really rough sketch and a start
+
+**Link(s) to work**: [10-11-12](https://github.com/mehtaishita/the-solution)
+
+
 ### Day 6: Aug 5, Wednesday
 
 **Today's Progress**: Worked on a javascript quiz app
